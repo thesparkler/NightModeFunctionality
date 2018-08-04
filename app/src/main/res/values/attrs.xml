@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    
+    <declare-styleable name="ds">
+        
+        <attr name="backgroundcolor" format="color"/>
+        <attr name="cardbackground" format="color"/>
+        <attr name="textcolor" format="color"/>
+        <attr name="tintcolor" format="color"/>
+        <attr name="buttoncolor" format="color"/>
+
+
+
+
+
+
+        
+    </declare-styleable>
+</resources>
